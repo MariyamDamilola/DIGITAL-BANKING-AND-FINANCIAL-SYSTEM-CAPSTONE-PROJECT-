@@ -1,0 +1,14 @@
+C:\Users\ANYTHING\RiderProjects\DigitalBankingAndFinancialSystem\obj\Debug\net8.0\DigitalBankingAndFinancialSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANYTHING\RiderProjects\DigitalBankingAndFinancialSystem\obj\Debug\net8.0\DigitalBankingAndFinancialSystem.AssemblyInfoInputs.cache
+C:\Users\ANYTHING\RiderProjects\DigitalBankingAndFinancialSystem\obj\Debug\net8.0\DigitalBankingAndFinancialSystem.AssemblyInfo.cs
+C:\Users\ANYTHING\RiderProjects\DigitalBankingAndFinancialSystem\obj\Debug\net8.0\DigitalBankingAndFinancialSystem.csproj.CoreCompileInputs.cache
+C:\Users\ANYTHING\RiderProjects\DigitalBankingAndFinancialSystem\bin\Debug\net8.0\DigitalBankingAndFinancialSystem.exe
+C:\Users\ANYTHING\RiderProjects\DigitalBankingAndFinancialSystem\bin\Debug\net8.0\DigitalBankingAndFinancialSystem.deps.json
+C:\Users\ANYTHING\RiderProjects\DigitalBankingAndFinancialSystem\bin\Debug\net8.0\DigitalBankingAndFinancialSystem.runtimeconfig.json
+C:\Users\ANYTHING\RiderProjects\DigitalBankingAndFinancialSystem\bin\Debug\net8.0\DigitalBankingAndFinancialSystem.dll
+C:\Users\ANYTHING\RiderProjects\DigitalBankingAndFinancialSystem\bin\Debug\net8.0\DigitalBankingAndFinancialSystem.pdb
+C:\Users\ANYTHING\RiderProjects\DigitalBankingAndFinancialSystem\obj\Debug\net8.0\DigitalBankingAndFinancialSystem.dll
+C:\Users\ANYTHING\RiderProjects\DigitalBankingAndFinancialSystem\obj\Debug\net8.0\refint\DigitalBankingAndFinancialSystem.dll
+C:\Users\ANYTHING\RiderProjects\DigitalBankingAndFinancialSystem\obj\Debug\net8.0\DigitalBankingAndFinancialSystem.pdb
+C:\Users\ANYTHING\RiderProjects\DigitalBankingAndFinancialSystem\obj\Debug\net8.0\DigitalBankingAndFinancialSystem.genruntimeconfig.cache
+C:\Users\ANYTHING\RiderProjects\DigitalBankingAndFinancialSystem\obj\Debug\net8.0\ref\DigitalBankingAndFinancialSystem.dll
